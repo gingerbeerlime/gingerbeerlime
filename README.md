@@ -1,11 +1,10 @@
 Hi there👋, I'm ginger.<br/>
-I'm a **frontend developer** using Javascript and Vue.js
+I'm a **frontend developer** using Javascript and Vue.js<br/>
 Passionate about enhancing user experience.<br/>
 <br/>
 [![Blogger Badge](https://img.shields.io/badge/-Blog-FF8C4C?style=flat-square&logo=Blogger&logoColor=white)](https://gingerbeerlime.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-lsumin1127@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:lsumin1127@gmail.com)
 
-<br/>
 
 ## 🧶 Skills
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
